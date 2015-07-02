@@ -4,3 +4,5 @@ pages/*
 node_modules/*
 bower_components/*
 dist/*
+/nbproject/*
+/npm-debug.log

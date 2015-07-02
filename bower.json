@@ -1,9 +1,10 @@
 {
   "name": "ng-webodf",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "authors": [
     "Mohammad Anwari <mdamt@mdamt.net>"
   ],
+  "main": "dist/angular-webodf.js",
   "description": "Angular WebODF",
   "license": "MIT",
   "private": false,
